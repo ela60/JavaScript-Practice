@@ -14,7 +14,7 @@ switch (true) {
     default:
         console.log("sorry");
 }
-switch (10) {
+switch (11) {
     case 10:
         console.log("10 is A+ mark")
         break;
